@@ -1,0 +1,19 @@
+{
+    "default_ports": [
+        21,
+        22,
+        80,
+        443,
+        8080,
+        8443
+    ],
+    "wordlists": {
+        "ssh": "wordlists/ssh.txt",
+        "web": "wordlists/web_dirs.txt"
+    },
+    "theme": "Kali Purple",
+    "api_keys": {
+        "virustotal": "",
+        "shodan": ""
+    }
+}
